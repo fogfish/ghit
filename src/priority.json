@@ -1,0 +1,6 @@
+[
+   {"name": "[P] critical", "color": "B30408"}
+  ,{"name": "[P] high",     "color": "F4AA3E"}
+  ,{"name": "[P] medium",   "color": "31689E"}
+  ,{"name": "[P] low",      "color": "0A9203"}
+]

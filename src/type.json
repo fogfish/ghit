@@ -1,0 +1,7 @@
+[
+   {"name": "[T] bug", "color": "EE0701"}
+  ,{"name": "[T] epic", "color": "fbca04"}
+  ,{"name": "[T] feature", "color": "8E039C"}
+  ,{"name": "[T] security", "color": "cc317c"}
+  ,{"name": "[T] user story", "color": "fef2c0"}
+]
