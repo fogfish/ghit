@@ -1,7 +1,8 @@
 [
    {"name": "[T] bug", "color": "EE0701"}
   ,{"name": "[T] epic", "color": "fbca04"}
-  ,{"name": "[T] feature", "color": "8E039C"}
+  ,{"name": "[T] feature", "color": "7057ff"}
   ,{"name": "[T] security", "color": "cc317c"}
+  ,{"name": "[T] resilience", "color": "660033"}
   ,{"name": "[T] user story", "color": "fef2c0"}
 ]
